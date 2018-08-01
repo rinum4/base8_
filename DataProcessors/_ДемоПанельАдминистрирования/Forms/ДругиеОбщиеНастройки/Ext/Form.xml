@@ -107,10 +107,6 @@
 				<v8:Type>cfg:ConstantsSet</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
-			<UseAlways>
-				<Field>НаборКонстант.ПровайдерSMS.Ref</Field>
-				<Field>НаборКонстант.РежимИспользованияИнформационнойБазы.Ref</Field>
-			</UseAlways>
 		</Attribute>
 	</Attributes>
 </Form>
