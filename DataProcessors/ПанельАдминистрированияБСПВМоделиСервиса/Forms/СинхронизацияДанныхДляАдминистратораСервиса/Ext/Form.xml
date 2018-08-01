@@ -497,8 +497,6 @@
 			<MainAttribute>true</MainAttribute>
 			<UseAlways>
 				<Field>НаборКонстант.ИспользоватьСинхронизациюДанных</Field>
-				<Field>НаборКонстант.ПровайдерSMS.Ref</Field>
-				<Field>НаборКонстант.РежимИспользованияИнформационнойБазы.Ref</Field>
 			</UseAlways>
 		</Attribute>
 		<Attribute name="РежимРаботы" id="2">
