@@ -32,6 +32,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor._ДемоДлительнаяОперация</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">SessionParameter._ДемоТекущийПроект</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">StyleItem._ДемоОсновнойПроектШрифт</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister._ТестРегистрНакопления</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
