@@ -2524,6 +2524,7 @@
 			<AccumulationRegister>_ДемоОборотыПоСчетамНаОплату</AccumulationRegister>
 			<AccumulationRegister>_ДемоОстаткиТоваровВМестахХранения</AccumulationRegister>
 			<AccumulationRegister>_ТестРегистрНакопления</AccumulationRegister>
+			<AccumulationRegister>_ТестРегистрНакопления2</AccumulationRegister>
 			<ChartOfCharacteristicTypes>_ДемоВидыСубконто</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ВопросыДляАнкетирования</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ДополнительныеРеквизитыИСведения</ChartOfCharacteristicTypes>
